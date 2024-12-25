@@ -26,6 +26,6 @@ bash git add . Commit the Changes:
 
 bash git commit -m "Add hello.py and Dockerfile"
 
-bash git remote add origin https://github.com/Harish-365/Assesment2 Push the Changes to GitHub:
+bash git remote add origin https://github.com/Harish-365/Assessment2 Push the Changes to GitHub:
 
 bash git push -u origin main
